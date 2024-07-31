@@ -8,5 +8,6 @@ This little system brought about great amusement in my old shared accommodation.
 ## Project Structure
 
 ```
-├── ""dogeCounter.py"" => The simple Python script for the dogecoin tracker. 
+├── ""dogeCounter.py"" => The simple Python script for the dogecoin tracker.
+├── ""dogeTracker.mp4"" => A short video of the system (only one I could find). 
 ```
